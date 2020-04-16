@@ -13,3 +13,6 @@ https://github.com/fwaters2/ultidevPortfolio
 ### R1D2
 Got the basic portfolio up and running and waiting for the DNS to update so I can get it posted!
 https://github.com/fwaters2/ultidevPortfolio
+
+### R1D3
+A lot of just updating packages and fighting with Heroku but finally got the deployment to work! The beginning of a website to share some Ultimate Frisbee related tools: http://ultideveloper.herokuapp.com
