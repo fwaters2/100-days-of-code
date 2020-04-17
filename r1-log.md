@@ -16,3 +16,6 @@ https://github.com/fwaters2/ultidevPortfolio
 
 ### R1D3
 A lot of just updating packages and fighting with Heroku but finally got the deployment to work! The beginning of a website to share some Ultimate Frisbee related tools: http://ultideveloper.herokuapp.com
+
+### R1D4
+Worked with Nodejs to get a better understanding of backend development and created a server
