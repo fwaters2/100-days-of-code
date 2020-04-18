@@ -19,3 +19,6 @@ A lot of just updating packages and fighting with Heroku but finally got the dep
 
 ### R1D4
 Worked with Nodejs to get a better understanding of backend development and created a server
+
+### R1D5
+Started putting together a MERN application with the goal of making a public facing API
