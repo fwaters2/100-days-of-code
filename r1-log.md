@@ -24,4 +24,4 @@ Worked with Nodejs to get a better understanding of backend development and crea
 Started putting together a MERN application with the goal of making a public facing API
 
 ### R1D6
-Connected a database to a backend server and made some progres with the API!
+Connected a database to a backend server and made some progress with an API!
