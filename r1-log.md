@@ -25,3 +25,6 @@ Started putting together a MERN application with the goal of making a public fac
 
 ### R1D6
 Connected a database to a backend server and made some progress with an API!
+
+### R1D7
+Got a basic REST API working, connected to a DB, and created 3 endpoints. Still working on getting some of the backend logic to work, but much smoother sailing
