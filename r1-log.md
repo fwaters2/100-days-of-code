@@ -28,3 +28,7 @@ Connected a database to a backend server and made some progress with an API!
 
 ### R1D7
 Got a basic REST API working, connected to a DB, and created 3 endpoints. Still working on getting some of the backend logic to work, but much smoother sailing
+
+### R1D8
+Backend logic is all working how I had hoped so calling the demo finished. Thinking about trying the same application with a GraphQL backend
+
