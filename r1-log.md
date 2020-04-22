@@ -32,3 +32,5 @@ Got a basic REST API working, connected to a DB, and created 3 endpoints. Still 
 ### R1D8
 Backend logic is all working how I had hoped so calling the demo finished. Thinking about trying the same application with a GraphQL backend
 
+### R1D9
+Did some bug squashing and got the toolbox for Ultimate deployed to www.ultideveloper.com
