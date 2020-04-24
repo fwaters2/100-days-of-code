@@ -34,3 +34,6 @@ Backend logic is all working how I had hoped so calling the demo finished. Think
 
 ### R1D9
 Did some bug squashing and got the toolbox for Ultimate deployed to www.ultideveloper.com
+
+### R1D10
+Day 10 of #100DaysOfCode. Started a project turning old csv files into a query-able api
