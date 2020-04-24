@@ -37,3 +37,6 @@ Did some bug squashing and got the toolbox for Ultimate deployed to www.ultideve
 
 ### R1D10
 Day 10 of #100DaysOfCode. Started a project turning old csv files into a query-able api
+
+### R1D11
+Continued working on the REST API for a statistics. Also spent some time dipping my toes into the opensource community by creating an issue, and submitting my first pull request to strangers! Striving not to be a Richard! https://gist.github.com/frnz/871723
