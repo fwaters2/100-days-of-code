@@ -43,3 +43,6 @@ Continued working on the REST API for a pile of statistics. Also spent some time
 
 ### R1D12
 Spent the day researching options for cloud hosting options and trying out different query languages. Really starting to miss front-end development!
+
+### R1D13
+Some days things just seem to go right. Finally settled on a mysql database with a nodejs backend hosted on Heroku for the REST API. Super grateful for all the amazing open source projects out there and all the informative blogs and replies to stack-overflow questions. 
