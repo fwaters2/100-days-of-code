@@ -46,3 +46,6 @@ Spent the day researching options for cloud hosting options and trying out diffe
 
 ### R1D13
 Some days things just seem to go right. Finally settled on a mysql database with a nodejs backend hosted on Heroku for the REST API. Super grateful for all the amazing open source projects out there and all the informative blogs and replies to stack-overflow questions. 
+
+### R1D14
+Took a break from the backend project and refactored some old front end code. Ever have one of those extension chords that almost reaches an outlet and then you straigten out a tangle and it reaches? I feel like that :)
