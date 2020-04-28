@@ -49,3 +49,6 @@ Some days things just seem to go right. Finally settled on a mysql database with
 
 ### R1D14
 Took a break from the backend project and refactored some old front end code. Ever have one of those extension chords that almost reaches an outlet and then you straigten out a tangle and it reaches? I feel like that :)
+
+### R1D15
+Didn't have a ton of time today, but spent an hour or so writing API queries
