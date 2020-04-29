@@ -52,3 +52,6 @@ Took a break from the backend project and refactored some old front end code. Ev
 
 ### R1D15
 Didn't have a ton of time today, but spent an hour or so writing API queries
+
+### R1D15
+Needed a break so worked on some algorithms on Leetcode!
