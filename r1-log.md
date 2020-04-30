@@ -55,3 +55,6 @@ Didn't have a ton of time today, but spent an hour or so writing API queries
 
 ### R1D16
 Needed a break so worked on some algorithms on Leetcode!
+
+### R1D17
+Started working for a Ultimate Frisbee CLIENT!!! Mostly reading code and getting the development environment set up. But very exciting none the less. I get to do my two favorite things.
