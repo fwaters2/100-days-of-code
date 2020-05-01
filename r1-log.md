@@ -58,3 +58,6 @@ Needed a break so worked on some algorithms on Leetcode!
 
 ### R1D17
 Started working for a Ultimate Frisbee CLIENT!!! Mostly reading code and getting the development environment set up. But very exciting none the less. I get to do my two favorite things.
+
+### R1D18
+Migrated some test data from a MongoDB database and started work on an admin panel for my client.
